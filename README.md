@@ -1,1 +1,1 @@
-# Smarthome-IOT-using-Thingsboard-platform
+# Smarthome IOT using Thingsboard platform
